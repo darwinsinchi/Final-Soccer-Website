@@ -1,0 +1,260 @@
+.title {
+    background-image: url(../IMG/design%20image%203.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+}
+
+.stadium{
+    background-image: url(../IMG/football%20stadium.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.maintitle h1{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    color:darkred;
+    margin-top:-8px;
+}
+
+.pictitle img{
+    width:260px;
+    height:260px;
+    position: absolute;
+    top: 10px;
+    right: 20px;}
+    
+.link p:nth-of-type(1){
+    position: absolute;
+    top:460px;
+    right:700px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(2){
+    display: none;
+}
+
+.link p:nth-of-type(3){
+    position:absolute;
+    top:460px;
+    right:550px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(4){
+    display: none;
+    
+}
+
+.link p:nth-of-type(5){
+    position: absolute;
+    top:460px;
+    right:370px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(6){
+    position:absolute;
+    top:460px;
+    right:230px;
+    background-color: goldenrod;
+}
+
+.piccalendar img{
+    position: relative;
+    top: 83px;
+    left: 110px;
+    width: 490px;
+    height:300px;}
+
+.calendar {
+    position: absolute;
+    bottom: 100px;
+    left: 650px;
+}
+
+.upcomingevents {
+    position: relative;
+    top: 490px;
+    left: 700px;
+    
+}
+
+.picabout img{
+    position: relative;
+    top: 200px;
+    left: 300px;
+    
+}
+
+.aboutus, .aboutus2{
+    visibility: hidden;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul ul{
+    list-style-type: circle;
+}
+
+.some, .subtitle, .FIFArules {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gameinfo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-style: oblique;
+    color:firebrick;
+}
+
+.lastinfo{
+    position: relative;
+    max-width: 480px;
+}
+
+.phoneemail{
+    display:flex;
+    justify-content: space-between;
+}
+
+.table1{
+    background-color: beige;
+    margin-bottom: 20px;
+    border-spacing: 200px;
+
+}
+.table2{
+    background-color: antiquewhite;
+}
+
+td, th{
+    border: solid 1px black;
+}
+
+.table3{
+    background-color: aliceblue;
+}
+
+.everything{
+    position: relative;
+    left: 220px;
+    width: 750px;
+    background-color: aliceblue
+}
+
+.registrationall {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    background-image: url(../IMG/goalpost%20background100.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top:0px;
+}
+
+
+
+.firstline, .thirdline, .forthline, .seventhline{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactall1{
+    width:700px;
+    background-color: aliceblue;
+}
+
+.zeroline{
+    position: relative;
+    text-align: center;
+}
+
+.majorschool, .uniform{
+    display: flex;
+    justify-content: space-around;
+}
+
+.lastone{
+    display: flex;
+    justify-content: space-between;
+}
+
+.searchbox{
+    display: flex;
+    justify-content: space-around;
+    background-color: goldenrod;
+}
+
+.bodybackground, .tableseverything, .wholeabout, .contactbackground{
+    background-image: url(../IMG/goalpost%20background100.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    position: relative;
+    top:0px;
+}
+
+.todo{background-image: url(../IMG/goalpost%20background100.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top:0px;
+    
+}
+
+.tableseverything {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 2500px;}
+
+.infoabout{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mission3, .vision3, .General3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width:600px;
+    background-color:aliceblue;
+}
+
+h3{
+    text-align: center;
+}
+
+.contactinfo {
+    position: absolute;
+    left: 500px;
+    top:180px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.table2019{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 800px;
+}

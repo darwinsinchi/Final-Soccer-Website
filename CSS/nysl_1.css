@@ -1,0 +1,128 @@
+.title {
+    background-image: url(../IMG/design%20image%201.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+
+}
+
+.calendar h3{
+    background-color: goldenrod;
+    border: 15px solid goldenrod;
+    text-align: center;
+    position: relative;
+    bottom: 400px;
+    
+}
+
+.pictitle img{
+    width:240px;
+    height:240px;
+    position: absolute;
+    top: 460px;
+    right: 10px;
+    z-index: 1;
+}
+
+.maintitle h1{
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+}
+
+.link p:nth-of-type(1){
+    position: relative;
+    top:500px;
+    left:20px;
+}
+
+.link p:nth-of-type(2){
+    display: none;
+}
+
+.link p:nth-of-type(3){
+    position:relative;
+    top:530px;
+    left:20px;
+}
+
+.link p:nth-of-type(4){
+    display: none;
+    
+}
+
+.piccalendar img{
+    visibility: hidden;
+}
+
+.link p:nth-of-type(5){
+    position: relative;
+    top:560px;
+    left:20px;
+}
+
+.calendar p{
+    position: relative;
+    bottom:305px;
+    left: 150px;
+}
+
+.picabout img{
+    visibility: hidden;
+}
+
+.infoabout{
+    position: relative;
+    bottom: 180px;
+    left:150px;
+    max-width: 800px;
+}
+
+.aboutus{
+    position: relative;
+    top: 490px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    text-align: center;
+    position: relative;
+}
+
+.piccontact img{
+    visibility: hidden;
+}
+
+.contactinfo{
+    position: relative;
+    bottom: 265px;
+    left:150px;
+}
+
+.contactus{
+    position: relative;
+    top: 490px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    text-align: center;
+    position: relative;
+    
+}
+
+.upcomingevents {
+    position: relative;
+    top: 490px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    text-align: center;
+    position: relative;
+}
+
+.contactus2 {
+    visibility:collapse;
+}
+
+.aboutus2{
+    visibility: collapse;
+}
+
+
+

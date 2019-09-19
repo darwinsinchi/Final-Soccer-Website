@@ -1,0 +1,93 @@
+
+
+
+.img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: middle
+}
+.h3 {
+    color: blue;
+}
+
+p {
+    color:blue}
+
+
+.contactinfo { 
+    position: relative;
+    bottom: 250px;
+    left: 300px
+}
+
+.infoabout {
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+    width:700px;
+        }
+.maintitle {
+    position: relative;
+    bottom: 200px;
+    left: 300px;}
+
+.calendar {
+    position: relative;
+    bottom: 300px;
+    left: 300px;}
+.link {
+    position: relative;
+    bottom: 150px;
+    left: 300px;}
+
+.title {
+    height: 250px;}
+
+.pictitle img{
+    width:240px;
+    height:240px;
+}
+
+.link p:nth-of-type(1){
+    position: absolute;
+    bottom:70px;
+    left:20px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(2){
+    position: absolute;
+    bottom:70px;
+    left:65px;
+}
+
+.link p:nth-of-type(3){
+    position:absolute;
+    bottom:70px;
+    left: 75px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(4){
+    position: absolute;
+    bottom:70px;
+    left:120px;
+    
+}
+
+.link p:nth-of-type(5){
+    position: absolute;
+    bottom: 70px;
+    left:130px;
+    background-color: goldenrod;
+}
+
+.upcomingevents {
+    position: relative;
+    bottom: 10px;
+    left: 300px
+}
+
+
+

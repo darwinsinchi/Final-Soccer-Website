@@ -1,0 +1,222 @@
+.title {
+    background-image: url(../IMG/design%20image%203.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    position: relative;
+    top:0px;
+}
+
+.maintitle h1{
+    position: relative;
+    top: 180px;
+    text-align: center;}
+
+.pictitle img{
+    width:260px;
+    height:260px;
+    position: absolute;
+    top: 10px;
+    right: 20px;}
+    
+.link p:nth-of-type(1){
+    position: absolute;
+    top:460px;
+    right:700px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(2){
+    display: none;
+}
+
+.link p:nth-of-type(3){
+    position:absolute;
+    top:460px;
+    right:550px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(4){
+    display: none;
+    
+}
+
+.link p:nth-of-type(5){
+    position: absolute;
+    top:460px;
+    right:370px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(6){
+    position:absolute;
+    top:460px;
+    right:230px;
+    background-color: goldenrod;
+}
+.contactinfo {
+    position: relative;
+    bottom: 100px;
+    left: 700px
+}
+
+
+.piccontact img{
+    position: relative;
+    top: 140px;
+    left: 390px;
+    width: 200px;
+    height:300px;
+}
+
+.contactus2{
+    position:relative;
+    top: 470px;
+    left:700px;
+
+}
+
+.contactus{
+    visibility: hidden;
+}
+
+.piccalendar img{
+    position: relative;
+    top: 140px;
+    left: 390px;
+    width: 200px;
+    height:300px;}
+
+.calendar {
+    position: relative;
+    bottom: 100px;
+    left: 700px
+}
+
+.upcomingevents {
+    position: relative;
+    top: 490px;
+    left: 700px;
+    
+}
+
+.picabout img{
+    position: relative;
+    top: 200px;
+    left: 300px;
+    
+}
+
+.infoabout {
+    position: relative;
+    bottom: 150px;
+    left: 600px;
+    width: 400px;
+}
+
+.aboutus, .aboutus2{
+    visibility: hidden;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul ul{
+    list-style-type: circle;
+}
+
+.everything {
+    position: relative;
+    top: 100px;
+}
+
+.some, .subtitle, .FIFArules {
+    position:relative;
+    text-align: center;
+}
+
+.tableseverything {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 2500px;
+}
+
+.gameinfo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lastinfo{
+    position: relative;
+    max-width: 480px;
+}
+
+.phoneemail{
+    display:flex;
+    justify-content: space-between;
+}
+
+.table1{
+    background-color: beige;
+    margin-bottom: 20px;
+    border-spacing: 200px;
+
+}
+.table2{
+    background-color: antiquewhite;
+}
+
+td, th{
+    border: solid 1px black;
+}
+
+.table3{
+    background-color: aliceblue;
+}
+
+.everything{
+    position: relative;
+    left: 200px;
+    width: 750px;
+}
+
+.registrationall {
+ display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    width:;
+}
+
+.firstline, .thirdline, .forthline, .seventhline{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactall1{
+    width:700px;
+}
+
+.majorschool, .uniform{
+    display: flex;
+    justify-content: space-around;
+}
+
+.lastone{
+    display: flex;
+    justify-content: space-between;
+}
+
+.escuela1, .escuela2, .escuela3, .escuela4, .escuela5{
+    display: flex;
+    justify-content: c;
+}
+
+
+
+

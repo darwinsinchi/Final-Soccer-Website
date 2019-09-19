@@ -1,0 +1,114 @@
+.title {
+    background-image: url(../IMG/design%20image%202.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    top: 50px;
+}
+
+.maintitle h1{
+    position: relative;
+    bottom: 300px;
+    left: 15px;
+}
+
+.piccalendar img{
+    visibility: hidden;
+}
+
+.picabout img{
+    visibility: hidden;
+}
+
+.link p:nth-of-type(1){
+    position: absolute;
+    bottom:528px;
+    right:150px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(2){
+    display: none;
+}
+
+.link p:nth-of-type(3){
+    position:absolute;
+    bottom:528px;
+    right:90px;
+    background-color: goldenrod;
+}
+
+.link p:nth-of-type(4){
+    display: none;
+    
+}
+
+.piccontact img{
+    visibility: hidden;
+}
+
+.link p:nth-of-type(5){
+    position: absolute;
+    bottom:528px;
+    right:20px;
+    background-color: goldenrod;
+}
+
+.upcomingevents {
+    position: relative;
+    top: 226px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    text-align: center;
+}
+
+.pictitle img{
+    width:240px;
+    height:240px;
+    position: relative;
+    top: 670px;
+    left: 1px;}
+
+.calendar p{
+    position: relative;
+    bottom:200px;
+    left: 300px;
+}
+
+.aboutus{
+    visibility: hidden
+}
+
+.aboutus2{
+    position: relative;
+    top:184px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    text-align: center;
+}
+
+.infoabout{
+    position: relative;
+    bottom:120px;
+    left:300px;
+    width:800px;
+}
+
+.contactus {
+    visibility: hidden;
+}
+
+.contactus2 {
+    position: relative;
+    top:184px;
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    text-align: center;
+}
+
+.contactinfo {
+    position: relative;
+    bottom: 200px;
+    left: 300px
+}
